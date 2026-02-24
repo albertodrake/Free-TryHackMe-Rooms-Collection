@@ -19,6 +19,15 @@ I am a passionate cyber security enthusiast dedicated to sharing knowledge and r
 
 ---
 
+## ⭐ Support & Community
+
+If you find this collection helpful, please consider **Starring** ⭐ and **Forking** this repository to help others find it! 
+
+🚀 **Have questions or want to suggest a room?**
+Join the conversation in our [GitHub Discussions](https://github.com/AlbertoDrake/tryhackme-rooms-free/discussions)!
+
+---
+
 ## 📂 Room Categories
 
 Click on a category to jump to the room list:
