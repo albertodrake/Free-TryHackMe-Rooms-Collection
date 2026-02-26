@@ -99,8 +99,8 @@ Click on a category to jump to the room list:
 
 - [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 - [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-- [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) (PAID)
+- [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) (PAID)
 
 ## 🪟 Windows Fundamentals
 
