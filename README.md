@@ -2,6 +2,13 @@
 
 ![Free TryHackMe Rooms Banner](https://img.shields.io/badge/FREE_TRYHACKME-ROOMS-purple?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=black)
 
+
+![Free TryHackMe Rooms Collection](https://img.shields.io/badge/Views-0-brightgreen) ![Watchers](https://img.shields.io/badge/Watchers-0-brightgreen) ![Stars](https://img.shields.io/badge/Stars-0-brightgreen) ![Forks](https://img.shields.io/badge/Forks-0-brightgreen)
+
+
+If you find this repository helpful, please consider starring and forking it! 
+
+
 Welcome to the ultimate collection of free TryHackMe rooms, curated and maintained by **Alberto Drake**.
 
 > [!IMPORTANT]
