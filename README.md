@@ -3,7 +3,8 @@
 ![Free TryHackMe Rooms Banner](https://img.shields.io/badge/FREE_TRYHACKME-ROOMS-purple?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=black)
 
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Falbertodrake%2FFree-TryHackMe-Rooms-Collection&leftColor=5f5d5d&rightColor=0adb3f&type=total&label=views&style=upper) ![Watchers](https://img.shields.io/badge/Watchers-0-brightgreen) ![Stars](https://img.shields.io/badge/Stars-0-brightgreen) ![Forks](https://img.shields.io/badge/Forks-0-brightgreen)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Falbertodrake%2FFree-TryHackMe-Rooms-Collection&leftColor=5f5d5d&rightColor=0adb3f&type=total&label=views&style=upper) ![GitHub Stars](https://img.shields.io/github/stars/albertodrake/Free-TryHackMe-Rooms-Collection?style=flat-square&color=1f6feb&labelColor=30363d)
+![GitHub Forks](https://img.shields.io/github/forks/albertodrake/Free-TryHackMe-Rooms-Collection?style=flat-square&color=58a6ff&labelColor=30363d)
 
 
 If you find this repository helpful, please consider starring and forking it! 
